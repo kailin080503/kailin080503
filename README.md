@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-<!--
-**kailin080503/kailin080503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor's in Information Technology (Security) | Diploma in IT
 
-Here are some ideas to get you started:
+💻 Full-stack developer with a focus on secure applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Technologies:** Angular.js, Python, C++, PHP, Shell Scripting
+
+🔒 Passionate about security best practices and clean code
+📚 Continuous learner exploring new technologies
+🛠️ Building robust, secure applications
+
+---
+
+Feel free to explore my repositories and reach out for collaboration!
+
 <img align="center" src="https://raw.githubusercontent.com/kailin080503/kailin080503/refs/heads/main/images/snake.svg" alt="Snake animation" />
